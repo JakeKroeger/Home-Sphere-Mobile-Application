@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ![homefeatures-ezgif com-video-to-gif-converter](https://github.com/JakeKroeger/Home-Sphere-Mobile-Application/assets/116835260/4c77e295-4ed2-4d90-a405-61aed7258b0b)
 
+
+![appfeatures-ezgif com-video-to-gif-converter](https://github.com/JakeKroeger/Home-Sphere-Mobile-Application/assets/116835260/2b5fc165-dd80-4f9d-adaa-ecd60e5ea042)
