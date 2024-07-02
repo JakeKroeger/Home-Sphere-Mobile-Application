@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "576701692157",
+    "firebase_url": "https://smarthome-d9eff-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-d9eff",
+    "storage_bucket": "smarthome-d9eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576701692157:android:79a35938cdc4998f2c2694",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUANXn7IM-wmVE9FKtTfm9e2kzJHm7KPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
