@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![homefeatures-ezgif com-video-to-gif-converter](https://github.com/JakeKroeger/Home-Sphere-Mobile-Application/assets/116835260/4c77e295-4ed2-4d90-a405-61aed7258b0b)
+
