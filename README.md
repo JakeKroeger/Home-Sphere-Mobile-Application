@@ -4,9 +4,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-A cross-platform IoT home automation system built with **Flutter**, **Firebase**, and **Arduino**, enabling users to remotely monitor and control smart home devices with near real-time synchronization.
+A cross-platform IoT home automation system built with **Flutter**, **Firebase**, and **Arduino**, enabling users to remotely monitor and control smart home devices with near real-time synchronization, voice commands, and push notifications.
 
-⭐ Cross-platform • 📱 Android • 🏠 IoT Automation • ⚡ Firebase Realtime Database
+⭐ Cross-platform • 📱 Android & iOS • 🏠 IoT Automation • ⚡ Firebase Realtime Database
 
 ---
 
@@ -16,7 +16,7 @@ Home Sphere is a smart home automation application designed to simplify the mana
 
 The application communicates with Arduino-powered hardware using Firebase Realtime Database, allowing users to monitor appliance status and remotely control connected devices with minimal latency.
 
-The project demonstrates Flutter application architecture, Firebase integration, hardware communication, authentication, and responsive mobile UI design.
+The project demonstrates Flutter application architecture, Firebase integration, Arduino communication, user authentication, and responsive mobile UI design.
 
 ---
 
@@ -79,6 +79,16 @@ During development I focused on:
 - User authentication
 - Protected device access
 
+## User Experience
+
+- Responsive layouts
+- Dark mode
+
+## Smart Features
+
+- Voice assistant integration
+- Push notifications
+
 ---
 
 # 🏗 System Architecture
@@ -106,7 +116,7 @@ During development I focused on:
 Some key engineering decisions include:
 
 - Firebase Realtime Database for low-latency synchronization.
-- Modular Flutter widgets for reusable UI.
+- Reusable Flutter widgets to reduce duplication and improve maintainability.
 - Separation between presentation and business logic.
 - Cloud-based device state management.
 - Secure authentication before device access.
@@ -117,7 +127,7 @@ Some key engineering decisions include:
 
 Performance considerations include:
 
-- Near real-time device synchronization
+- Near real-time (<100ms) device synchronization
 - Lightweight database updates
 - Responsive Flutter rendering
 - Efficient Firebase listeners
@@ -194,11 +204,8 @@ flutter run
 # 🔮 Future Improvements
 
 - Device scheduling
-- Voice assistant integration
-- Push notifications
 - Energy usage analytics
 - Additional IoT device support
-- Dark mode
 - Unit testing
 - CI/CD
 
