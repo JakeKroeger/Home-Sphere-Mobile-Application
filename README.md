@@ -45,11 +45,11 @@ During development I focused on:
 
 <div align="center">
 
-<img src="./assets/homefeatures.gif" width="800"/>
+<img src="./assets/HomeSphereGifOne.gif" width="800"/>
 
 <br/>
 
-<img src="./assets/appfeatures.gif" width="800"/>
+<img src="./assets/homeSphere.gif" width="800"/>
 
 </div>
 
