@@ -6,13 +6,7 @@
 
 A cross-platform IoT home automation system built with **Flutter**, **Firebase**, and **Arduino**, enabling users to remotely monitor and control smart home devices with near real-time synchronization.
 
-⭐ Cross-platform
-
-📱 Android
-
-🏠 IoT Automation
-
-⚡ Firebase Realtime Database
+⭐ Cross-platform • 📱 Android • 🏠 IoT Automation • ⚡ Firebase Realtime Database
 
 ---
 
